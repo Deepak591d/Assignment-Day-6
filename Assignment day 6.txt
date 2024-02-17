@@ -1,0 +1,47 @@
+Q1. What is Programming Language?
+Ans. A programming language is a formal system designed to instruct a computer to perform specific tasks or operations. It provides a set of rules and syntax for creating source  code,  which is then translated or compiled into machine code or an intermediate code that can be executed by a computer.
+
+Q2. Why do we need a programming language?
+Ans. Programming languages are essential tools for instructing computers to perform specific tasks. Here are several reasons why we need programming languages:
+1. Communication with computers: Computers operate using machine code, which consists of binary instructions (0s and 1s). Programming languages provide a higher-level and more human-readable abstraction, making it feasible for programmers to communicate their intentions to computers effectively.
+2. Abstraction: Programming languages provide abstraction, allowing programmers to work at a higher level of understanding without having to deal directly with low-level details of the hardware. This abstraction simplifies the development process and enables programmers to focus on solving problems rather than managing intricate details.
+3. Efficiency: Writing programs in a programming language allows developers to express complex algorithms and logic more concisely and efficiently than writing in machine code. This increased efficiency is crucial for managing the complexity of modern software systems.
+4. Productivity: Programming languages provide tools, libraries, and frameworks that enhance the productivity of developers. These tools simplify common tasks, facilitate code reuse, and enable the creation of large and complex software projects.
+5. Portability: Programming languages like Java, Python, and others offer platform independence. Once a program is written in such a language, it can run on different platforms without modification, as long as the necessary runtime environment is available.
+6. Problem Solving: Programming languages are essential for solving a wide range of problems, from simple calculations to complex simulations and data analysis. They enable the development of applications that automate tasks, process information, and provide solutions to various challenges.
+7. Innovation and Creativity: Programming languages empower individuals and teams to innovate and create new software solutions. They serve as a medium for expressing creative ideas and turning them into functional applications or systems.
+8. Automation: Programming languages enable the automation of repetitive and tedious tasks. From simple scripts to complex software applications, programming languages allow for the creation of automation solutions that save time and reduce human error
+
+Q3. What are the features of Java?
+Ans. Java is a versatile and widely-used programming language known for its platform independence, robustness, and extensive ecosystem. Here are some key features of Java:
+
+1. **Platform Independence:** Java programs are typically compiled into bytecode, which can run on any device with a Java Virtual Machine (JVM). This "write once, run anywhere" capability makes Java platform-independent.
+
+2. **Object-Oriented:** Java is designed around the principles of object-oriented programming (OOP), promoting concepts like encapsulation, inheritance, and polymorphism. This facilitates modular and maintainable code.
+
+3. **Robust and Secure:** Java includes features like automatic memory management (garbage collection) and exception handling, enhancing program robustness. The Java Virtual Machine provides a secure execution environment, isolating Java programs from the underlying system.
+
+4. **Multi-threading:** Java supports multithreading, allowing developers to create programs that can perform multiple tasks concurrently. This is crucial for building efficient and responsive applications.
+
+5. **Distributed Computing:** Java includes features for building distributed applications, such as Remote Method Invocation (RMI) and Java Naming and Directory Interface (JNDI), facilitating communication between applications on different machines.
+
+6. **Rich Standard Library:** Java comes with a comprehensive standard library (Java API) that provides a wide range of classes and packages for tasks like networking, file I/O, database access, and more. This helps developers save time and effort by leveraging existing functionality.
+
+7. **Dynamic and Extensible:** Java supports dynamic class loading, which allows new classes to be loaded and existing classes to be redefined at runtime. This feature contributes to the flexibility and extensibility of Java applications.
+
+8. **High Performance:** While Java is an interpreted language, the use of the Java Virtual Machine (JVM) and Just-In-Time (JIT) compilation techniques contribute to its high performance. The JVM optimizes bytecode for execution on the host machine.
+
+9. **Community and Ecosystem:** Java has a large and active developer community. There is a vast ecosystem of libraries, frameworks, and tools that contribute to the ease of development and maintenance of Java applications.
+
+10. **Integration:** Java can be easily integrated with other languages and technologies. It supports the Java Native Interface (JNI) for interfacing with native code and has various APIs for integration with databases, web services, and more.
+
+These features make Java suitable for a wide range of applications, from enterprise-level systems to web development and mobile applications. The language continues to evolve, with regular updates introducing new features and improvements.
+
+Q4. What is an Object?
+Ans. In the context of programming and object-oriented programming (OOP), an object is an instance of a class.
+
+Q5. What is a class?
+Ans. A class is a blueprint or template that defines the structure and behavior of objects.
+
+Q6. Explain about the main() method in Java?
+Ans. In Java, the main() method is a special method that serves as the entry point for a Java program. When a Java program is executed, the Java Virtual Machine (JVM) looks for the main() method in the specified class and starts the execution from there.
